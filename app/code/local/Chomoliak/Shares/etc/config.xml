@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Chomoliak_Shares>
+            <version>0.1.0</version>
+        </Chomoliak_Shares>
+    </modules>
+    <frontend>
+        <routers>
+            <Chomoliak_Shares_SomeFreeRouterName1>
+                <use>standard</use>
+                <args>
+                    <module>Chomoliak_Shares</module>
+                    <frontName>chomoliak-shares</frontName>
+                </args>
+            </Chomoliak_Shares_SomeFreeRouterName1>
+        </routers>
+    </frontend>
+</config>

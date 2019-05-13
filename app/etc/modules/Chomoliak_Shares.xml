@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Chomoliak_Shares>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Chomoliak_Shares>
+    </modules>
+</config>
